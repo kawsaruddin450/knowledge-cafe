@@ -1,10 +1,10 @@
 [
     {
-        "id": 01,
+        "id": "01",
         "title": "How to get your first job as a self-taught programmer",
         "author": "Mr. Raju",
         "published_at": "Mar 14, 2024",
-        "image": "https://images.unsplash.com/photo-1518932945647-7a1c969f8be2?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "image": "https://plus.unsplash.com/premium_photo-1685086785636-2a1a0e5b591f?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "profile": "https://plus.unsplash.com/premium_photo-1664533227571-cb18551cac82?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "reading_time": 5,
         "tags": [
@@ -12,37 +12,37 @@
         ]
     },
     {
-        "id": 02,
+        "id": "02",
         "title": "How to get your first job as a self-taught programmer",
         "author": "Mr. Raju",
         "published_at": "Mar 14, 2024",
-        "image": "https://images.unsplash.com/photo-1518932945647-7a1c969f8be2?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "image": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fGhhY2tlcnxlbnwwfHwwfHx8MA%3D%3D",
         "profile": "https://plus.unsplash.com/premium_photo-1664533227571-cb18551cac82?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "reading_time": 5,
+        "reading_time": 15,
         "tags": [
             "beginners", "programming"
         ]
     },
     {
-        "id": 03,
+        "id": "03",
         "title": "How to get your first job as a self-taught programmer",
         "author": "Mr. Raju",
         "published_at": "Mar 14, 2024",
-        "image": "https://images.unsplash.com/photo-1518932945647-7a1c969f8be2?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "image": "https://images.unsplash.com/photo-1541728472741-03e45a58cf88?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "profile": "https://plus.unsplash.com/premium_photo-1664533227571-cb18551cac82?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "reading_time": 5,
+        "reading_time": 10,
         "tags": [
             "beginners", "programming"
         ]
     },
     {
-        "id": 04,
+        "id": "04",
         "title": "How to get your first job as a self-taught programmer",
         "author": "Mr. Raju",
         "published_at": "Mar 14, 2024",
         "image": "https://images.unsplash.com/photo-1518932945647-7a1c969f8be2?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "profile": "https://plus.unsplash.com/premium_photo-1664533227571-cb18551cac82?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "reading_time": 5,
+        "reading_time": 13,
         "tags": [
             "beginners", "programming"
         ]
