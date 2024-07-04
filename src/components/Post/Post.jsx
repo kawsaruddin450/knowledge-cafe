@@ -5,6 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 const Post = (props) => {
     const {id, title, author, profile, published_at, image, reading_time, tags} = props.post;
+    const addToBookmarks = props.addToBookmarks;
     return (
         <div className='post-body'>
             <img src={image} alt={title} />
@@ -17,7 +18,7 @@ const Post = (props) => {
                     </div>
                 </div>
                 <div>
-                    <p className='reading-time'>{reading_time} min read <a href="#"> <FontAwesomeIcon icon={faBookmark}></FontAwesomeIcon> </a></p>
+                    <p className='reading-time'>{reading_time} min read <button onClick={() => addToBookmarks(props.post)}> <FontAwesomeIcon icon={faBookmark}></FontAwesomeIcon> </button></p>
                 </div>
             </div>
             <h2 className="post-title">{title}</h2>

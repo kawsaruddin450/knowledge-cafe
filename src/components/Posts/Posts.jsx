@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import './Posts.css';
 import Post from '../Post/Post';
 
-const Posts = () => {
+const Posts = (props) => {
     const [posts, setPosts] = useState([]);
     useEffect(()=>{
         fetch('/data.json')
@@ -12,7 +12,7 @@ const Posts = () => {
     return (
         <div className='post-container'>
             {
-                posts.map(post => <Post key={post.id} post={post}></Post>)
+                posts.map(post => <Post key={post.id} addToBookmarks={props.addToBookmarks} post={post}></Post>)
             }
         </div>
     );

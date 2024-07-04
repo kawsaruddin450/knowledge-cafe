@@ -1,0 +1,13 @@
+.bookmark {
+    padding: 10px;
+    text-align: left;
+    border-radius: 8px;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.bookmark h2 {
+    color: #111;
+    font-size: 18px;
+    font-weight: 600;
+}
