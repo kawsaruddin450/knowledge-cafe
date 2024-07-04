@@ -6,6 +6,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 const Post = (props) => {
     const {id, title, author, profile, published_at, image, reading_time, tags} = props.post;
     const addToBookmarks = props.addToBookmarks;
+    const trackReading = props.trackReading;
     return (
         <div className='post-body'>
             <img src={image} alt={title} />
@@ -27,7 +28,7 @@ const Post = (props) => {
                 tags.map(tag => <span className='tag'>#{tag}</span>)
             }
             </p>
-            <p className='mark-as-read'><a href="#">Mark as read</a></p>
+            <p className='mark-as-read'><a href="#" onClick={()=> trackReading(props.post)}>Mark as read</a></p>
         </div>
     );
 };

@@ -12,7 +12,12 @@ const Posts = (props) => {
     return (
         <div className='post-container'>
             {
-                posts.map(post => <Post key={post.id} addToBookmarks={props.addToBookmarks} post={post}></Post>)
+                posts.map(post => <Post 
+                key={post.id} 
+                addToBookmarks={props.addToBookmarks}
+                trackReading={props.trackReading} 
+                post={post}
+                ></Post>)
             }
         </div>
     );

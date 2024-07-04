@@ -1,0 +1,14 @@
+.reading-tracker {
+    border-radius: 8px;
+    border: 1px solid #6047EC;
+    background: rgba(96, 71, 236, 0.10);
+    text-align: center;
+    padding: 22px;
+    margin-bottom: 45px;
+}
+
+.reading-tracker h2 {
+    color: #6047EC;
+    font-size: 24px;
+    font-weight: 700;
+}
